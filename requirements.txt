@@ -1,0 +1,38 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LangGraph
+langgraph
+
+# LLM providers
+langchain-openai
+langchain-google-genai
+
+# Web / API
+fastapi
+uvicorn[standard]
+requests
+httpx
+
+# Web scraping
+beautifulsoup4
+lxml
+
+# Data validation / configuration
+pydantic
+pydantic-settings
+python-dotenv
+
+# RAG / Vector databases
+chromadb
+faiss-cpu
+
+# Documents
+pypdf
+
+# Useful utilities
+tiktoken
+tenacity
